@@ -1,0 +1,13 @@
+.banner-button {
+  height: 48px;
+  width: 248px;
+  border-radius: 8px;
+  font-size: 8px;
+  padding: 14px 16px;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 19.5px;
+  text-align: center;
+  margin: 10px;
+}

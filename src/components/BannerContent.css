@@ -1,0 +1,13 @@
+.banner-content {
+  float: left;
+  line-height: 19.5px;
+  text-align: left;
+}
+.bullet-list {
+  margin: 16px auto;
+}
+@media screen and (max-width: 960px) {
+  .banner-content {
+    min-width: 300px;
+  }
+}
